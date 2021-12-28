@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: greenyellow;
+}
+.heading{
+    text-decoration: underline;
+    color: red;
+}
+table, th, td{
+    border:solid 1px black;
+    
+}
+
+th{
+    background-color: yellow;
+}
+
+div{
+    display: flex;
+}
+.month-div{
+    display: flex;
+}
